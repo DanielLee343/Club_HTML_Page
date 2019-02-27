@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+.inside_margin{
+	font-family:'幼圆';
+	font-weight:bold;
+	list-style:none;
+	font-size:13px;
+}
+
+#down{
+	background:#5C5C5C;
+	height:120px;
+	width:100%;
+	text-align:center;
+}
+a:link{
+	color:white;
+}
+
+.carousel-control{
+	font-size:50px;
+}
+
